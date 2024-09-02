@@ -29,6 +29,7 @@
   .wrapper {
     height: 100vh;
     border-radius: 0;
+    box-shadow: none;
   }
 
   .result_area {
